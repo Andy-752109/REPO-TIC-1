@@ -1,0 +1,4 @@
+#Ignoramos archivos de log en la raíz del proyecto
+/log_prueba.txt
+
+
